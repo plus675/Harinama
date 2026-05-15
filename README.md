@@ -1,5 +1,5 @@
 <meta charset='utf8'>
-<title>Инструкция для настройки звука на Харинаме</title>
+
 <meta name = "viewport" content = "width=device-width, initial-scale = 1.0">
 <h1 id='0'>Инструкция для настройки звука на Харинаме</h1>
 
